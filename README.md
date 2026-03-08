@@ -64,7 +64,7 @@ probability in real time
     │   └── model.py
 
     └── reports/
-        └── Titanic_Survival_Prediction_Report.pdf
+        └── Titanic_Survival_Prediction_Report.docx
 
 ------------------------------------------------------------------------
 
