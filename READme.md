@@ -1,10 +1,5 @@
 Titanic Survival Prediction
 
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/scikit--learn-1.7.2-orange
-https://img.shields.io/badge/Pandas-2.3.3-green
-https://img.shields.io/badge/License-MIT-yellow
-
 A comprehensive machine learning project that predicts passenger survival on the RMS Titanic using the classic dataset from Kaggle. The project includes an automated pipeline for model training and an interactive notebook for making predictions on new passenger data.
 📊 Project Overview
 
