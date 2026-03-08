@@ -97,25 +97,7 @@ bash
 
 jupyter notebook notebooks/02_titanic_modeling.ipynb
 
-The notebook includes an interactive section where you can input passenger details and get real-time survival predictions. Example usage from the notebook:
-python
-
-# Create sample new passengers
-new_passengers = pd.DataFrame({
-    'Pclass': [1, 3, 2],
-    'Sex': [0, 1, 0],  # 0=female, 1=male
-    'Age': [25, 30, 17],
-    'SibSp': [0, 1, 2],
-    'Parch': [0, 0, 1],
-    'Fare': [100.0, 7.5, 25.0],
-    'Embarked': [0, 1, 2],
-    'FamilySize': [1, 2, 4],
-    'Alone': [1, 0, 0]
-})
-
-# Get predictions
-predictions = model.predict(new_passengers)
-probabilities = model.predict_proba(new_passengers)
+The notebook includes an interactive section where you can input passenger details and get real-time survival 
 
 📈 Results
 
